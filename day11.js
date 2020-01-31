@@ -7,7 +7,7 @@ let array =[1,-2,3,-9,-5,4,3,7,10];
 let result =[];
 
 const positiveArray =(args)=>{
-    array.map((el)=>{
+    args.map((el)=>{
         if( el > 0){
             result.push(el);
         }
