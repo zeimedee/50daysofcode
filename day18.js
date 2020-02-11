@@ -1,6 +1,6 @@
 /*
 *Author: Alexander Domakyaareh
-*File: create a function that will merge 2 arrays and retuen the result as a new array
+*File: create a function that will merge 2 arrays and return the result as a new array
 */
 let array1 = ['fried','vegetable', 'rice'];
 let array2 = ['chicken','beef','sauce']
