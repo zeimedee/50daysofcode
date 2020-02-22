@@ -12,4 +12,5 @@ const toAscii = (str) => {
   return result;
 }
 let text = 'alex123';
+
 console.log(toAscii(text));
