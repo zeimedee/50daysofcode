@@ -20,4 +20,4 @@ const getMiddle = (word) => {
 }
 
 
-console.log(getMiddle('alexnaders'));
+console.log(getMiddle('alexnaders');
